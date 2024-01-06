@@ -2,6 +2,9 @@
 
 This project aims to create a secure and scalable RESTful API that allows users to manage notes. The application includes features such as creating, reading, updating, and deleting notes. Additionally, users can share notes with others and search for notes based on keywords.
 
+
+<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJhMTdzNDlpM3JzZWNqcWx4eDQ3NDc5aTc1bWxwNnppOHJ1ZDRhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hrSJkALVR79xkbbjih/giphy.gif">
+
 ## Technical Details
 
 - **Framework:** Express.js
