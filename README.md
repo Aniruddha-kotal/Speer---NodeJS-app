@@ -2,6 +2,10 @@
 
 This project aims to create a secure and scalable RESTful API that allows users to manage notes. The application includes features such as creating, reading, updating, and deleting notes. Additionally, users can share notes with others and search for notes based on keywords.
 
+## 💻 Tech Stack:
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
 
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJhMTdzNDlpM3JzZWNqcWx4eDQ3NDc5aTc1bWxwNnppOHJ1ZDRhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hrSJkALVR79xkbbjih/giphy.gif">
 
